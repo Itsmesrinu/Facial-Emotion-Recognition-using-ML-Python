@@ -4,6 +4,7 @@ This project demonstrates how to use Convolutional Neural Networks (CNNs) for em
 
 Requirements
 Before you begin, make sure you have the following Python packages installed:
+
 pip install numpy
 
 pip install opencv-python
