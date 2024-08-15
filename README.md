@@ -1,10 +1,10 @@
 # Facial-Emotion-Recognition-using-ML-Python
-
+# Codes zip-file download - https://drive.google.com/file/d/1aoa2G3JyCk5-Gty7e8S1gxS4kRpMToP1/view?usp=drive_link
 This project demonstrates how to use Convolutional Neural Networks (CNNs) for emotion detection from facial expressions.
 
 Requirements
 Before you begin, make sure you have the following Python packages installed:
-
+### Packages need to be installed
 pip install numpy
 
 pip install opencv-python
@@ -15,12 +15,12 @@ pip3 install --upgrade tensorflow
 
 pip install pillow
 
-Dataset
+### download FER2013 dataset
 You need to download the FER2013 dataset to train the model. You can get it from this link on Kaggle-- https://www.kaggle.com/msambare/fer2013
 
 After downloading, place the dataset in a data folder within your project directory.
 
-Training the Emotion Detector
+### Train Emotion detector
 To train the emotion detection model:
 
 Open the trainmodel-checkpoint.ipynb file in a Jupyter environment.
@@ -32,7 +32,11 @@ After the training is complete, the model structure and weights will be saved as
 emotiondetector.json
 emotiondetector.keras
 
-Face Emotion Recognition Using Machine Learning
+### Testing
+### run your emotion detection test file
+python trialvideotester.py
+
+# Face Emotion Recognition Using Machine Learning
 This project is a practical implementation of facial emotion recognition using machine learning and Python.
 
-You can watch a related tutorial here: https://www.youtube.com/watch?v=aoCIoumbWQY
+# You can watch a related tutorial here: https://www.youtube.com/watch?v=aoCIoumbWQY
