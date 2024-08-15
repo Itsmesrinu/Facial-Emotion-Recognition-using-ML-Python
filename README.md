@@ -1,5 +1,7 @@
 # Facial-Emotion-Recognition-using-ML-Python
 # Codes zip-file download - https://drive.google.com/file/d/1aoa2G3JyCk5-Gty7e8S1gxS4kRpMToP1/view?usp=drive_link
+![all expressions img](https://github.com/user-attachments/assets/62b83ed2-f293-43ab-99eb-14fbf1b175cb)
+
 This project demonstrates how to use Convolutional Neural Networks (CNNs) for emotion detection from facial expressions.
 
 Requirements
