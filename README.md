@@ -42,3 +42,8 @@ python trialvideotester.py
 This project is a practical implementation of facial emotion recognition using machine learning and Python.
 
 # You can watch a related tutorial here: https://www.youtube.com/watch?v=aoCIoumbWQY
+
+
+###Results:
+![Screenshot 2024-04-25 102659](https://github.com/user-attachments/assets/30aeb0a3-ded6-488e-926d-be17c168e6fd)
+
