@@ -15,7 +15,7 @@ pip3 install --upgrade tensorflow
 
 pip install pillow
 
-### download FER2013 dataset
+### Download FER2013 dataset
 You need to download the FER2013 dataset to train the model. You can get it from this link on Kaggle-- https://www.kaggle.com/msambare/fer2013
 
 After downloading, place the dataset in a data folder within your project directory.
@@ -33,7 +33,7 @@ emotiondetector.json
 emotiondetector.keras
 
 ### Testing
-### run your emotion detection test file
+### Run your emotion detection test file
 python trialvideotester.py
 
 # Face Emotion Recognition Using Machine Learning
