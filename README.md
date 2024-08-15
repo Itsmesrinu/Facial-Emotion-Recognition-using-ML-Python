@@ -45,5 +45,10 @@ This project is a practical implementation of facial emotion recognition using m
 
 
 ###Results:
+![Screenshot 2024-04-25 102715](https://github.com/user-attachments/assets/84296ffb-e54e-45fe-9659-fce7fcf27d49)
+![Screenshot 2024-04-25 102725](https://github.com/user-attachments/assets/fff2130c-e0ac-4f06-9a3c-c19533d42894)
+![Screenshot 2024-04-25 102803](https://github.com/user-attachments/assets/2a731448-0457-498c-9ea2-4a5a4fe212f0)
+
+
 ![Screenshot 2024-04-25 102659](https://github.com/user-attachments/assets/30aeb0a3-ded6-488e-926d-be17c168e6fd)
 
